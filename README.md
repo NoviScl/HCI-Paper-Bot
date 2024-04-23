@@ -10,4 +10,6 @@ This is simple paper bot that helps you filter through the past 6.5 years of CHI
 
 3. Customize your prompt in `paper_filter_bot.py` (line 13-22). 
 
-4. Run the bot using `python paper_filter_bot.py`.
+4. Put your OpenAI / Anthropic API keys in `keys.json`. For OpenAI users, put your API key in `api_key` (you can also additionally specify `organization_id`). For Anthropic users, put your API key in `anthropic_key`. 
+
+5. Run the bot using `python paper_filter_bot.py`.
