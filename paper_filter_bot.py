@@ -36,7 +36,6 @@ if __name__ == "__main__":
     ANTH_KEY = keys["anthropic_key"]
     OAI_KEY = keys["api_key"]
     ORG_ID = keys["organization_id"]
-    S2_KEY = keys["s2_key"]
     
     if "claude" in engine:
         client = anthropic.Anthropic(
