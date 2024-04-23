@@ -1,0 +1,6 @@
+legacy_code/
+**/.DS_Store
+**/__pycache__/
+**/*.zip
+keys.json
+SIGCHI_data/
